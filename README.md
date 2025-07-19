@@ -36,6 +36,18 @@ Lowest performing days were consistent ( Mondays & Fridays ) — potential for c
 dashboard screanshot
 ![Dashboard](dashboard.png)
 
+## Dataset Structure
+
+- **Date**: Transaction date  
+- **Branch**: Location of the store (A, B, or C)  
+- **Product Line**: Category of the item sold  
+- **Total**: Final amount paid by the customer  
+- **Payment**: Method (Cash, Credit card, etc.)  
+- **Customer Type**: Normal or Member  
+- **Gender**: Male/Female  
+ 
+
+
 Nextt Steps
 This project is one of several in an ongoing analytics portfolio. The goal is to build towards more advanced business intelligence and financial modeling projects, using tools like SQL, Python, and Power BI in the near future.
 
