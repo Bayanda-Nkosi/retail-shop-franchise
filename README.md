@@ -1,7 +1,7 @@
 📊 Retail Sales Dashboard (Excel)
 This project analyzes a fictional retail franchise’s 4-month sales data using Excel. The goal was to extract KPIs and visualize performance to help business owners track growth and revenue trends.
 
-## 📂 Dataset Overview
+## 📂 Dataset Overview:
 
 The dataset includes sales records with the following key fields:
 
@@ -17,26 +17,26 @@ The dataset includes sales records with the following key fields:
 
 
 ---
-## 📊 Business Questions Answered
+## 📊 Business Questions Answered:
 
 - What product lines generate the most revenue?
 - What are the busiest times of day or days of the week?
 - Do member customers spend more than normal ones?
 - Which branches outperform others?
 
-## 💡 Key Insights
+## 💡 Key Insights:
 
 - 🥇 **Top Product Line**: [DAIRY]
 - 🕒 **Peak Sales Hours**: [10 AM- 5PM]
 - 📍 **Best Performing Branch**: [A]
 
-##✅ Key KPIs Covered:
+## ✅ Key KPIs Covered:
 -Top-selling products by revenue and quantity
 -Sales trends by day and month
 -Daily revenue insights (busiest days, peak hours)
 -Gross revenue over time
 
-##📁 Tools Used:
+## 📁 Tools Used:
 
 -Excel Pivot Tables
 -Pivot Charts
@@ -55,19 +55,19 @@ The dataset includes sales records with the following key fields:
 -Manage stock better
 -Target high-performing products
 
-##🧠 Insights:
+## 🧠 Insights:
 -Peak revenue occurred on [weekend and wednesdays]  at times 10AM-5PM ideal for promotions and staffing.
 -Product Dairy brought in the highest revenue despite lower sales volume — high-margin opportunity.
 -Lowest performing days were consistent ( Mondays & Fridays ) — potential for cost-cutting or promotions
 
-##dashboard screanshot
+## Dashboard screanshot:
 ![Dashboard](dashboard.png)
 
  
  
 
 
-##Nextt Steps
+## Next Steps
 This project is one of several in an ongoing analytics portfolio. The goal is to build towards more advanced business intelligence and financial modeling projects, using tools like SQL, Python, and Power BI in the near future.
 ## 👤 Author
 
