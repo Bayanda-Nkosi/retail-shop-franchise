@@ -34,7 +34,8 @@ Product Dairy brought in the highest revenue despite lower sales volume — high
 Lowest performing days were consistent ( Mondays & Fridays ) — potential for cost-cutting or promotions
 
 dashboard screanshot
+![Dashboard](dashboard.png)
 
-✅ Next Steps
+Nextt Steps
 This project is one of several in an ongoing analytics portfolio. The goal is to build towards more advanced business intelligence and financial modeling projects, using tools like SQL, Python, and Power BI in the near future.
 
