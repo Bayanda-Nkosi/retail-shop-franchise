@@ -1,50 +1,38 @@
-# retail-shop-franchise
-A performance analysis project for a fictional  retail chain stores as part of my data analytics portfolio
+📊 Retail Sales Dashboard (Excel)
+This project analyzes a fictional retail franchise’s 4-month sales data using Excel. The goal was to extract KPIs and visualize performance to help business owners track growth and revenue trends.
 
-🔍 Objective
-This project was completed as part of a practical data analytics portfolio to demonstrate skills in cleaning, analyzing, and visualizing retail sales data using Microsoft Excel.
+✅ Key KPIs Covered:
+Top-selling products by revenue and quantity
 
-The goal was to extract actionable insights for a fictional (or real, if you used client data) retail store, focusing on:
+Sales trends by day and month
 
-Top-selling products
+Daily revenue insights (busiest days, peak hours)
 
-Peak sales periods (days/times)
+Gross revenue over time
 
-Revenue performance over time
+📁 Tools Used:
+Excel Pivot Tables
 
-Business recommendations based on patterns and trends
+Pivot Charts
 
-🧰 Tools Used
-Microsoft Excel: Data cleaning, Pivot Tables, dashboards, and visualization
+Conditional Formatting
 
-📈 Key Findings
-Top Products: Dairy Product and beverage Products  contributed the highest revenue.
+ 🎯 Business Goal:
+Help retail owners identify when and where they’re making the most money so they can:
 
-Peak Times: Most revenue was generated on weekends with wednesday being the exception, especially between 10AM–5PM.
+Optimize staffing
 
-Underperformers: Certain product categories performed poorly and need pricing or placement review.
+Manage stock better
 
-Trends: Sales dipped during start of the week periods, suggesting opportunities for weekday promotions.
+Target high-performing products
 
-📌 Business Recommendations
-Focus marketing on peak hours and top-selling products.
+🧠 Insights:
+Peak revenue occurred on [weekend and wednesdays]  at times 10AM-5PM ideal for promotions and staffing.
 
-Introduce loyalty deals to increase midweek sales.
+Product Dairy brought in the highest revenue despite lower sales volume — high-margin opportunity.
 
-Remove or reposition underperforming SKUs.
+Lowest performing days were consistent ( Mondays & Fridays ) — potential for cost-cutting or promotions
 
-Scale what works — run A/B testing on pricing and bundling.
-
-🧠 Skills Demonstrated
-Pivot Table and Chart Mastery
-
-Data Cleansing and Preprocessing
-
-Trend and Pattern Analysis
-
-Business-Oriented Interpretation of Data
-
-Dashboard Building
 
 ✅ Next Steps
 This project is one of several in an ongoing analytics portfolio. The goal is to build towards more advanced business intelligence and financial modeling projects, using tools like SQL, Python, and Power BI in the near future.
