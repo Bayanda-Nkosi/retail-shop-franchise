@@ -31,16 +31,23 @@ The dataset includes sales records with the following key fields:
 - 📍 **Best Performing Branch**: [A]
 
 ## ✅ Key KPIs Covered:
--Top-selling products by revenue and quantity
--Sales trends by day and month
--Daily revenue insights (busiest days, peak hours)
--Gross revenue over time
+-Revenue contribution by product category
+-Sales volume trends across weekdays and weekends
+-Hourly revenue analysis to identify staffing windows
+-Monthly revenue accumulation across branches
 
 ## 📁 Tools Used:
 
 -Excel Pivot Tables
 -Pivot Charts
 -Conditional Formatting
+
+## 🛠️ Steps Taken:
+
+-Cleaned raw dataset and removed duplicates
+-Created new columns (e.g., Hour from datetime)
+-Built PivotTables for product, time, and branch-level analysis
+-Visualized key metrics in dashboard layout
 
 ## 📁 Files
 
@@ -56,14 +63,20 @@ The dataset includes sales records with the following key fields:
 -Target high-performing products
 
 ## 🧠 Insights:
--Peak revenue occurred on [weekend and wednesdays]  at times 10AM-5PM ideal for promotions and staffing.
--Product Dairy brought in the highest revenue despite lower sales volume — high-margin opportunity.
+-Saturday, Sunday, and Wednesday consistently showed higher revenue across all branches, especially between 10AM–5PM. ideal for promotions and staffing.
+-Dairy generated the highest revenue despite lower transaction volume, indicating a high-margin product category
 -Lowest performing days were consistent ( Mondays & Fridays ) — potential for cost-cutting or promotions
+
+## conclusion
+This analysis would help a retail franchise optimize shift scheduling, stock procurement, and targeted promotions by understanding transaction behavior.
 
 ## Dashboard screanshot:
 ![Dashboard](dashboard.png)
 
- 
+## Future Improveents
+ Include dynamic dashboards (Power BI or Google Data Studio)
+Add forecasting (simple linear regression or moving average)
+Automate weekly reports using Excel macros or Python
  
 
 
